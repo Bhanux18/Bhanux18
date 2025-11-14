@@ -8,14 +8,14 @@
 - 🌱 I’m currently exploring **Deep Learning & NLP.**
 
 - ⚡ Fun fact **:🧪Mixing up a potion of coolness and humor, one witty quip at a time.✨🕺**
-<!---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bhanux18" target="blank"><img align="center" src="https://github.com/Bhanux18/Bhanux18/blob/main/icons8-linkedin-logo-40.svg" alt="bhanux18"  height="30" width="40"/></a>
 <a href="https://kaggle.com/bhanux18" target="blank"><img align="center" src="https://github.com/Bhanux18/Bhanux18/blob/main/icons8-kaggle.svg" alt="bhanux18" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bhanux18" target="blank"><img align="center" src="https://github.com/Bhanux18/Bhanux18/blob/main/icons8-hackerrank.svg" alt="bhanux18" height="30" width="40" /></a>
 </p>
--->
+
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
